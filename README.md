@@ -15,16 +15,6 @@
     </div>
 </div>
 
-## 📋 Table of Contents
-
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Code to Copy](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
-
 ## 🚨 Completed Project
 
 This repository now serves as my professional portfolio. It includes various projects that highlight my skills in web development, especially focusing on frontend design and 3D interactions.
