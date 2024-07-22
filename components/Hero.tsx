@@ -60,7 +60,7 @@ const Hero = () => {
             Hi! I&apos;m Isaac, a Full Stack Developer based in Virginia USA.
           </p>
 
-          <a href="#about">
+          <a href="#about" title="about me">
             <MagicButton
               title="Show my work"
               icon={<FaLocationArrow />}
